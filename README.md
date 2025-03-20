@@ -115,12 +115,20 @@ export default SearchBar;
 
 
 Challenges Faced and Solutions
+
 API Authentication Complexity:
+
 Solution: Implemented a backend proxy for Spotify API authentication and token management.
+
 Data Format Variability:
+
 Solution: Developed a middleware to standardize API responses.
+
 State Management Issues:
+
 Solution: Integrated React Context API for efficient state management.
+
+
 Contributors 
 
 Peter Kyama
